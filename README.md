@@ -12,4 +12,4 @@ Complier:  XeLaTeX
 
 Tested on:
 
-* [X] TexLive 2016 Linux 64-bit version
+* [X] Tex Mac 64-bit version
